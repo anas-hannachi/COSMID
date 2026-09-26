@@ -1,0 +1,17 @@
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+*.py[cod]
+.venv/
+venv/
+.env
+*.log
+results/*
+!results/evaluation_v1/
+!results/evaluation_v1/**
+!results/evaluation_v2/
+!results/evaluation_v2/**
+*.egg-info/
